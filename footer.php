@@ -1,7 +1,7 @@
       	</div>
       	<footer class="position-fixed bottom-0">
       		<div class="text-center">
-      		Bhanu Prakash M Book Store 2021
+      		Bhanu Prakash Mullapudi Book Store 2021
       		</div>
       	</footer>
       	<script type="text/javascript" src="./bootstrap/js/jquery-2.1.4.min.js"></script>
